@@ -1,0 +1,26 @@
+{
+  "name": "blog-backend",
+  "version": "1.0.0",
+  "description": "```\r    git clone \r ```",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnat157/blog-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnat157/blog-backend/issues"
+  },
+  "homepage": "https://github.com/nnat157/blog-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.7.1",
+    "mongoose": "^6.0.12"
+  }
+}
